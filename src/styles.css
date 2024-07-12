@@ -1,1 +1,103 @@
-/* You can add global styles to this file, and also import other style files */
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+    a{
+        text-decoration: none;
+        color: white;
+    }
+}
+
+.card{
+    border: blue solid 1px;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+
+    img{
+        width: 200px;
+    }
+}
+
+.type{
+    border-radius: 50px;
+    border: solid transparent 2px;
+    color:white;
+    text-align: center;
+    display: block;
+    font-size: 14px;
+    width:70px;
+}
+
+.Acier{
+    background-color: #60A2B9;
+}
+
+.Combat{
+    background-color: #FF8100;
+}
+
+.Dragon{
+    background-color: #4F60E2;
+}
+
+.Eau{
+    background-color: #2481EF;
+}
+
+.Électrik{
+    background-color: #FAC100;
+}
+
+.Fée{
+    background-color: #EF70EF;
+}
+
+.Feu{
+    background-color: #EC5657;
+}
+
+.Glace{
+    background-color: #3DD9FF;
+}
+
+.Insecte{
+    background-color: #92A212;
+}
+
+.Normal{
+    background-color: #A0A2A0;
+}
+
+.Plante{
+    background-color: #3DA224;
+}
+
+.Poison{
+    background-color: #923FCC;
+}
+
+.Psy{
+    background-color: #EF3F7A;
+}
+
+.Roche{
+    background-color: #B0AA82;
+}
+
+.Sol{
+    background-color: #92501B;
+}
+
+.Spectre{
+    background-color: #724472;
+}
+
+.Vol{
+    background-color: #82BAEF;
+}
+
+.Ténèbres{
+    background-color: #4E3F3C;
+}
